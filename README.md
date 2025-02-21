@@ -70,4 +70,5 @@ const apiKey = "YOUR_API_KEY";
 📧 [rajapriyanka1101@gmail.com](mailto:rajapriyanka1101@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rajapriyankar/)  
 💻 [GitHub](https://github.com/rajapriyanka/)  
-[🌍 **Live Project:** [Weather App](#) *(Add your deployment link here)*  ](https://rajapriyanka.github.io/Weather-Web/)
+🌍 **Live Project:** [Weather App](https://rajapriyanka.github.io/Weather-Web/)
+
