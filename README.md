@@ -70,9 +70,4 @@ const apiKey = "YOUR_API_KEY";
 📧 [rajapriyanka1101@gmail.com](mailto:rajapriyanka1101@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/rajapriyankar/)  
 💻 [GitHub](https://github.com/rajapriyanka/)  
-🌍 **Live Project:** [Weather App](#) *(Add your deployment link here)*  
-
----
-
-Now, **copy and paste** this into your `README.md` file, and your GitHub repository will look professional! 🚀 Let me know if you need any modifications. 😊  
-```
+[🌍 **Live Project:** [Weather App](#) *(Add your deployment link here)*  ](https://rajapriyanka.github.io/Weather-Web/)
