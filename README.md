@@ -6,7 +6,7 @@ The **Weather Web** is a simple web-based application that allows users to check
 
 🔹 **Tech Stack:** HTML, CSS, JavaScript  
 🔹 **Features:** Search by location, real-time weather data, temperature conversion  
-🔹 **Live Demo:** [Click Here](#) *([Add your deployment link here](https://rajapriyanka.github.io/Weather-Web/))*  
+🔹 **Live Demo:** [Click Here](https://rajapriyanka.github.io/Weather-Web/)
 
 ---
 
